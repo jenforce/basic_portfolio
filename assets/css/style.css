@@ -1,0 +1,170 @@
+.container {
+  margin: 10px;
+  width: 960px;
+  height: 700px;
+   background-image: url("../asanohapx.png");
+}
+
+.header {
+  margin: 0px;
+  padding: 10px;
+  height: 85px;
+  border-bottom: solid gray 2px;
+  background-color: white;
+  font-family: "Arial" "Verdana";
+  }
+
+.name {
+  color: #ffffff;
+  background-color: #4aaaa5;
+  margin: 25px 160px 40px 70px;
+  padding: 20px 20px 5px 20px;
+  height: 45;
+  width: 160px;
+  text-align: center;
+  float: left;
+  font-size: 25;
+font-family: "Arial" "Verdana";
+}
+
+.aone {
+  text-decoration: none;
+  color:gray;
+  padding:0px 10px;
+}
+
+.atwo{
+  text-decoration: none;
+  color:gray;
+  padding:0px 10px;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+}
+
+
+.hlink{
+  padding: 50px 40px 40px 40px;
+}
+
+.main{
+  margin: 10px;
+  width: 960px;
+  height: 550px;
+
+  
+}
+.about{
+  position: relative;
+  top: 0px;
+  left: 0px;
+  margin:60px;
+  height:400px; 
+  width: 550; 
+  background-color: white;
+}
+.habout{
+  padding:25px;
+  border-bottom:2px solid gray;
+  margin-left: 25px;
+  width: 450px;
+  font-size: 30px;
+  color:gray;
+}
+
+.jpic{
+  float:left;
+  margin:25px;
+}
+
+.bio{
+  margin:25px 25px 25px 25px;
+  
+  }
+.connect{
+background-color: white;
+display:inline;
+position: absolute;
+top: 180px;
+right: 420px;
+}
+
+.hconnect{
+  margin: 20px 20px 10px 20px;
+  border-bottom: solid gray 1px;
+  padding-bottom: 10px;
+  font-style: bold;
+  color:gray;
+  font-family: "Arial" "Times";
+}
+
+.mlink{
+  margin: 0px 20px 20px 20px;
+    padding-bottom: 40px;
+}
+.llinkin{
+float:left;
+margin: 3px;
+  
+}
+.lgit{
+float:left;
+margin:3px 0px 3px 0px;
+  }
+.lstack{
+  float:left;
+  margin: 3px;
+}
+
+
+.contactctnr{
+  padding: 20px;
+  width: 470px;
+  background-color: white;
+  margin: 60px;
+}
+
+.hcontact{
+
+    font-size: 25px;
+    font: Arial;
+    font-family: "Arial" "Times";
+    border-bottom: solid gray 1px;
+    color: #4aaaa5;
+    padding: 10px
+  }
+
+}
+.frmlable{
+  color: gray;
+  font-size: 15px;
+  margin:15px;
+}
+  
+}
+.tblspc{
+margin: 15px;
+}
+
+#textareafrmt{
+  border:solid gray;
+  color: gray;
+
+}
+
+footer{
+  position: absolute;
+  top:650px;
+  height: 85px;
+  width: 960px;
+  border-top: 8px solid #4aaaa5;
+  background-color: gray;
+  font-size: 10px;
+  color: white;
+}
+.fdiv{
+  padding: 45px 20px 20px 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+
