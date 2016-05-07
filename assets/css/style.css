@@ -58,15 +58,15 @@ font-family: "Arial" "Verdana";
   top: 0px;
   left: 0px;
   margin:60px;
-  height:400px; 
+  height:425px; 
   width: 550; 
   background-color: white;
 }
 .habout{
-  padding:25px;
+  padding:20px;
   border-bottom:2px solid gray;
   margin-left: 25px;
-  width: 450px;
+  width: 475px;
   font-size: 30px;
   color:gray;
 }
@@ -77,8 +77,9 @@ font-family: "Arial" "Verdana";
 }
 
 .bio{
-  margin:25px 25px 25px 25px;
-  
+     margin: 25px 25px 0px 25px;
+    font-family: "Arial";
+    line-height: 20px;
   }
 .connect{
 background-color: white;
