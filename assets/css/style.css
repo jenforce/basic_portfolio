@@ -151,6 +151,10 @@ margin: 15px;
   color: gray;
 
 }
+button {
+    background-color:teal;
+    color:white;
+  }
 
 footer{
   position: absolute;
